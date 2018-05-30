@@ -27,6 +27,12 @@
   "name": "HEADLINE 6 COLOR & STYLE",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53FD256C-4FDF-4FD3-BDB8-BA5D2A970DC0",
+      "overrideName": "276CD875-082B-4B12-88D9-5D329572C64C_stringValue",
+      "value": "Адский текст, ахаха"
+    }
   ],
   "resizingConstraint": 47,
   "resizingType": 0,
