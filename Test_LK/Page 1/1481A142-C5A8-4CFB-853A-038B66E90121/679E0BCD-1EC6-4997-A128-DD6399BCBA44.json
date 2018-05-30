@@ -17,8 +17,8 @@
     "do_objectID": "0FDBB9B2-F4EF-4540-ABE8-D706A02FD5C1",
     "height": 56,
     "width": 360,
-    "x": 140,
-    "y": 1024
+    "x": 982,
+    "y": 140
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -49,5 +49,11 @@
     "startDecorationType": 0
   },
   "symbolID": "AA47BDBD-4E53-472C-BD19-10E1C316CDA5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

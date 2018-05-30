@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "5F7E93A5-1D28-4C3C-B1DD-E3112413D263",
+  "do_objectID": "628F3DFA-3AAD-4FD5-B1A9-6E279BAA39B8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9637404C-F5DC-4272-BFAC-E06435CD281B",
+    "do_objectID": "306F799A-8B5B-45AB-944A-4163F4DAA03F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,11 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1E044F4F-200A-4880-B239-6094CE8F4733",
-    "height": 48,
-    "width": 360,
-    "x": 560,
-    "y": 2340
+    "do_objectID": "C707D8FD-6894-4A98-8E57-37EC3106121C",
+    "height": 472,
+    "width": 344,
+    "x": 996,
+    "y": 196
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Snackbar / with Action / Single-line",
-  "nameIsFixed": true,
+  "name": "Cards / with Tabs / Filled / Resting",
+  "nameIsFixed": false,
   "overrideValues": [
   ],
   "resizingConstraint": 63,
@@ -37,11 +37,17 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C9EE00D2-F892-427A-A1E9-34478821A1DD",
+    "do_objectID": "D13645E4-B119-4D34-853D-F0B957DAA867",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "D3C25D85-43FF-4FF1-98BF-F993FD100001",
+  "symbolID": "CD73545A-79C5-473D-A1AC-E8FAE817ABF8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }
