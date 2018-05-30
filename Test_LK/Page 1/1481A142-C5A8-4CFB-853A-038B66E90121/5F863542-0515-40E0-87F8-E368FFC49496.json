@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5F863542-0515-40E0-87F8-E368FFC49496",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5A15FA5-B663-4B5C-88AE-93F1387E804C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3ECF48C4-F573-4F1C-9996-95C4C4D15FE1",
+    "height": 240,
+    "width": 1900,
+    "x": 0,
+    "y": 2536
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "✱ / Artboard Content / Footer",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "993A9018-6B35-4742-BB54-5CEC73EBB810",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "59643A6D-5259-4F9D-9CB8-D026053211F6",
+  "verticalSpacing": 0
+}

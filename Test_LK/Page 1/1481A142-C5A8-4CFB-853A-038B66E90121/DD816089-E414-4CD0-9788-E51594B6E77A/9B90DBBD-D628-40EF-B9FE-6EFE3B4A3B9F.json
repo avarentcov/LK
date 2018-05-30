@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9B90DBBD-D628-40EF-B9FE-6EFE3B4A3B9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "608E8EA2-A92F-4204-B97F-64B042056C94",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D3FE2856-35F2-4ACF-B2E9-6C2C973989FF",
+    "height": 48,
+    "width": 328,
+    "x": 574,
+    "y": 1284
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Slider / Discrete / with Icons",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "96A8BFCE-7483-49B5-BB39-2799CBE581D0",
+      "overrideName": "F4134C30-DEBF-4D88-A7B8-1C15AC498CCA_symbolID",
+      "value": "F4A9CD8E-A338-4A3C-9C4A-7501EB297C27"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2BDF1A11-FE32-48D6-8F58-D8DCF9830A35",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7421A089-1E6C-4054-8340-6F2F81938BEF",
+  "verticalSpacing": 0
+}

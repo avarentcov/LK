@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "894DEF19-E361-4020-8A00-1C5E2073AFEA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48A73FFB-79EB-4A83-AA55-F49E705C83A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1CED7BB9-B6BB-46BE-B963-0133E89A5000",
+    "height": 242,
+    "width": 360,
+    "x": 980,
+    "y": 1674
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Image Lists / Standard / 3-Up",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54952005-5C9F-4531-AC63-77C092375870",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4312DCE5-BEB6-453D-89DD-8F925533F034",
+  "verticalSpacing": 0
+}

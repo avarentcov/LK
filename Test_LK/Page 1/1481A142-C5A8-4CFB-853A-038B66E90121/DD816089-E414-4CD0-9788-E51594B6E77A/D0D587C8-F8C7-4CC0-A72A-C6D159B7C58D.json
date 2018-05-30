@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D0D587C8-F8C7-4CC0-A72A-C6D159B7C58D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2497753B-097C-43E5-9453-F44FC825F0F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "029EC0E4-90B2-4928-9433-3B2467C08959",
+    "height": 120,
+    "width": 344,
+    "x": 1408,
+    "y": 1404
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cards / List 1-up / Outlined / Image Left / Selected",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "22CBBF00-2283-4F9A-86D4-58DF6BD250FD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "277A6F4E-F3B3-4F1A-8EF9-F2D11AFC06EF",
+  "verticalSpacing": 0
+}

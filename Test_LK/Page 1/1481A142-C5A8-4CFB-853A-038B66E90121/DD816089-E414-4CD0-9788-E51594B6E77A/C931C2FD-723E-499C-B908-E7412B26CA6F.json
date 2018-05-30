@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C931C2FD-723E-499C-B908-E7412B26CA6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "80FE8D5B-CC5C-4BF2-97B2-E41D89E32D86",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "34AAD71F-E909-466F-A7B2-D30DCCD988EC",
+    "height": 248,
+    "width": 280,
+    "x": 180,
+    "y": 1284
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dialogs / Confirmation / Body",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F0730398-8C34-47BD-B564-E445DA7CA256",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FED78983-A497-4D16-B576-7FA9D0478D5E",
+  "verticalSpacing": 0
+}

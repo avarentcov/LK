@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6A413329-0E53-4EEF-ADBC-ED419656503E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BD98198F-E240-4FA4-AB3B-F9E67F0DA17D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "38F3850C-2978-4298-82EF-E4FA04FBC10A",
+    "height": 48,
+    "width": 360,
+    "x": 560,
+    "y": 2094
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab / Fixed Tabs / Icon Only / Flat",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "196A7C47-8AB9-4A63-9232-D12F87950DAD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B5F4AB36-541E-44F8-AD0F-ACB952ED1D36",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "71CBD0A9-0A5B-4D2E-9AC6-E14B4ED781A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "469AE41A-62F6-42CD-94D3-162A63B23252",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A6B8209-505E-4D0B-AFE1-02FC37F25C44",
+    "height": 244,
+    "width": 168,
+    "x": 1583,
+    "y": 1000
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cards / List 2-up / Filled / Image Lead / Selected ",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "22BCB2D9-CE00-4795-9D30-B10EAA6EFD76",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6A8D9D21-641C-48CC-A580-599028803972",
+  "verticalSpacing": 0
+}

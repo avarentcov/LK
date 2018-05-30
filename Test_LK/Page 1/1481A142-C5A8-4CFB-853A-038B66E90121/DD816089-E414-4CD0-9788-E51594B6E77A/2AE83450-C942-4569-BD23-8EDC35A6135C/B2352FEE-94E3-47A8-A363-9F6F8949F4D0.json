@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B2352FEE-94E3-47A8-A363-9F6F8949F4D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76FFF732-EC99-4FE6-BBA2-40602A7E4906",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "98CED602-6CCE-47B9-AC6D-656D8C552766",
+    "height": 84,
+    "width": 360,
+    "x": 0,
+    "y": 556
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "App Bar / Bottom App Bar / Centered FAB / Circular / Overlapping",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "27A345B2-AB8C-4959-9CD0-B0B26E6E4AC0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7959AF66-E529-4F1A-A899-B8A433DEBC83",
+  "verticalSpacing": 0
+}

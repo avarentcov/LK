@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BC1A32D3-96B6-401C-AC5C-FD1A2103C45A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A77636B-1250-4705-9A59-2511582C8BC3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D364C54-2011-42A6-A6E3-C9B2ACE3EEC5",
+    "height": 322,
+    "width": 360,
+    "x": 560,
+    "y": 1712
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Sheets / Bottom Sheet",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1402DC15-CF1E-424E-9182-3DDC0FBFC9A5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3C953B56-5805-4CFE-A122-2FBBEE4D20C3",
+  "verticalSpacing": 0
+}

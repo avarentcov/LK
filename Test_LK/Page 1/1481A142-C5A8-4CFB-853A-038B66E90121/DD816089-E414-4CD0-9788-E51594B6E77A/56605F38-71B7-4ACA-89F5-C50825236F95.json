@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "56605F38-71B7-4ACA-89F5-C50825236F95",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6BCA0A55-E23A-4B10-ADD5-8D7C37A1193F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3AACAB6F-B69B-4D86-B310-D4C461363FA1",
+    "height": 112,
+    "width": 344,
+    "x": 1408,
+    "y": 1276
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cards / List 1-up / Outlined / Avatar / Resting",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF0D4937-EB4B-48DC-9E10-929A8DACD2E4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "37C4D6EC-94D0-4720-8F73-844ADFBF1B4D",
+  "verticalSpacing": 0
+}
