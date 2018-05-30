@@ -8,7 +8,7 @@
     "green": 0.4546662414965986,
     "red": 0.4546662414965986
   },
-  "changeIdentifier": 3442,
+  "changeIdentifier": 3443,
   "do_objectID": "EA0E7371-E6EB-436D-9A92-76EDEF4EB5C8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",

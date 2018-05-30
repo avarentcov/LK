@@ -27,6 +27,12 @@
   "name": "↳ Tonal Palette",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C511C41-E6C5-4E15-9ACA-44B1895386A9",
+      "overrideName": "677A8015-2ADB-4217-A8A4-D335305F7967_symbolID",
+      "value": "5942F15C-22C0-4A67-8C16-3CA8BA8F6656"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,5 +46,11 @@
     "startDecorationType": 0
   },
   "symbolID": "D4A120E5-08D7-4351-BB51-DD01228883E5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }
