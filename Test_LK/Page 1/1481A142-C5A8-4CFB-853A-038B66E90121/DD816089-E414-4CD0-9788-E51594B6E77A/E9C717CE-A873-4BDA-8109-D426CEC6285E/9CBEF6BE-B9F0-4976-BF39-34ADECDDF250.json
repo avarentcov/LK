@@ -29,6 +29,12 @@
   "name": "✱ / Text / Body 2 / Selected / On Surface / Medium Emphasis / Left ",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "54320424-0EE0-4B0F-BCB5-53152F680B98",
+      "overrideName": "EA94034F-589A-4C8E-A7F0-71E97520D736_stringValue",
+      "value": "Табуретка"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

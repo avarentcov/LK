@@ -29,6 +29,12 @@
   "name": "✱ / Text / Body 2 / Selected / On Surface / Medium Emphasis / Left ",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DDD9FEBF-CAB5-4DAB-8767-C8760C743E11",
+      "overrideName": "EA94034F-589A-4C8E-A7F0-71E97520D736_stringValue",
+      "value": "Полочка"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

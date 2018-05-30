@@ -29,6 +29,12 @@
   "name": "App Bar / Top App Bar / Regular / Raised / Primary Color",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98EFF4B2-C9C0-4D10-B85C-9F83C72C4E32",
+      "overrideName": "ED685097-5B33-4B4C-9A6A-E2BBC0369C00/5CFFEB67-F6EA-4F38-B0A2-5CAF91996170_stringValue",
+      "value": "Мы победим!"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

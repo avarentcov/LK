@@ -46,6 +46,12 @@
       "do_objectID": "4BF03B2A-2303-4BEE-9D94-74949299629C",
       "overrideName": "B8F1A5CA-82FC-4CB4-B36D-432DE3B33B51/E56F3BB5-4CCB-4A13-9344-B67CBB7E4EC7_symbolID",
       "value": "5D1C0B91-B419-4295-8F5A-24BEC5809102"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "17188BAE-F3B0-4842-93C0-BB0CE8F32F02",
+      "overrideName": "509BE91F-E0BC-4AAE-99BF-67372C727C17/4052E429-A11F-4AED-8E71-C4DCA4C387BE_stringValue",
+      "value": "И так победим"
     }
   ],
   "resizingConstraint": 63,

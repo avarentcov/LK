@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
+              "name": "HelveticaNeue",
               "size": 11.78221415607985
             }
           },
@@ -30,11 +30,11 @@
             "minimumLineHeight": 16
           }
         },
-        "length": 7,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Caption"
+    "string": "Бебебе"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "62C22133-D29F-4168-9A25-2AE8C0A38A48",
@@ -56,7 +56,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 4}, {43, 12}}",
+  "glyphBounds": "{{0, 4}, {43, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -87,7 +87,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
+            "name": "HelveticaNeue",
             "size": 11.78221415607985
           }
         },

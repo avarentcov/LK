@@ -29,6 +29,12 @@
   "name": "✱ / Text / Body 2 / Selected / On Surface / Medium Emphasis / Left ",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1198BCF4-598D-4E22-83DB-9F78F35C5529",
+      "overrideName": "EA94034F-589A-4C8E-A7F0-71E97520D736_stringValue",
+      "value": "Ящик"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -29,6 +29,12 @@
   "name": "✱ / Text / Body 2 / Selected / On Surface / Medium Emphasis / Left ",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DCD3E86A-6513-4857-8EFC-BB13012CD8FA",
+      "overrideName": "EA94034F-589A-4C8E-A7F0-71E97520D736_stringValue",
+      "value": "Стул"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

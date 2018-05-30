@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
+              "name": "HelveticaNeue",
               "size": 19.63702359346642
             }
           },
@@ -28,11 +28,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 10,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Headline 6"
+    "string": " Надпись"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "276CD875-082B-4B12-88D9-5D329572C64C",
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "387355DB-6D03-4EC2-A23A-0C264020D5F5",
-    "height": 26,
+    "height": 23,
     "width": 97,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 6}, {95, 16}}",
+  "glyphBounds": "{{7, 4}, {79, 19}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
+            "name": "HelveticaNeue",
             "size": 19.63702359346642
           }
         },
